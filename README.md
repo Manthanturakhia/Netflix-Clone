@@ -1,8 +1,7 @@
-Nettflix Clone built using React JS Includes following Functionality:
+Netflix Clone built using React JS Includes following Functionality:
   1. Frontend Like OG Netflix.
-  2. TMDB Api Integration
-  3. Can watch Youtube trailer of specific movie when clicked on it.
-
+  2. TMDB API Integration
+  3. Can watch the Youtube trailer of the specific movie when clicked on it.
 
 Link: https://netflix-clone-b87ae.web.app/
 
